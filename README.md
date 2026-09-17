@@ -1,6 +1,6 @@
-# Price is Right 💰
+# PriceSense 💰
 
-**Price is Right** is a fine-tuning capstone project that explores how **frontier models and traditional machine learning models** can predict the price of a product from its description.
+**PriceSense** is a fine-tuning capstone project that explores how **frontier models and traditional machine learning models** can predict the price of a product from its description.
 
 Five step strategy to select,training, and applying an LLM to a commercial problem:
 
@@ -452,7 +452,7 @@ This provides a consistent framework for evaluating the different approaches.
 
 ##  Project Goal:
 
-**Price is Right** explores how traditional machine learning and fine-tuned frontier models can be applied to a real-world commercial problem:
+**PriceSense** explores how traditional machine learning and fine-tuned frontier models can be applied to a real-world commercial problem:
 
 > **Estimating the price of a product from its description.**
 
